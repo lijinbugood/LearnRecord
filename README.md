@@ -1,2 +1,2 @@
 # LearnRecord
-learning records，as backup of  csdn
+learning records，as backup of csdn
